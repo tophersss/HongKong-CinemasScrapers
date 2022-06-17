@@ -1,0 +1,2 @@
+SELECT a.hkmovie6_code, a.showtime_code FROM SalesDetails as a
+WHERE a.movie_starttime BETWEEN strftime('%Y-%m-%d %H:%M:%S', datetime('now', '-@n hours', 'localtime')) AND strftime('%Y-%m-%d %H:%M:%S', datetime('now', 'localtime'))
