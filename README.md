@@ -367,7 +367,7 @@ Distributed under the GPL License. See `LICENSE` for more information.
 
 Chris Suen - [LinkedIn](https://twitter.com/twitter_handle) - chrissssuen@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/tophersss/HongKong-CinemasData](https://github.com/tophersss/HongKong-CinemasData)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
