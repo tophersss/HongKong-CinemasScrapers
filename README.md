@@ -365,7 +365,7 @@ Distributed under the GPL License. See `LICENSE` for more information.
 
 ## Contact
 
-Chris Suen - [LinkedIn](https://twitter.com/twitter_handle) - chrissssuen@gmail.com
+Chris Suen - [LinkedIn][linkedin-url] - chrissssuen@gmail.com
 
 Project Link: [https://github.com/tophersss/HongKong-CinemasData](https://github.com/tophersss/HongKong-CinemasData)
 
@@ -378,7 +378,7 @@ Project Link: [https://github.com/tophersss/HongKong-CinemasData](https://github
 
 ## Acknowledgments
 
-* [hkmovie6](hkmovie6-url) - this project would not exist without this website
+* [hkmovie6][hkmovie6-url] - this project would not exist without this website
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -397,6 +397,6 @@ Project Link: [https://github.com/tophersss/HongKong-CinemasData](https://github
 [license-shield]: https://img.shields.io/github/license/tophersss/HongKong-CinemasScrapers?style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/chris-suen-617b57242/
 [product-screenshot]: images/screenshot.png
 [hkmovie6-url]: https://hkmovie6.com
