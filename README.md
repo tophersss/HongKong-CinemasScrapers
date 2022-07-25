@@ -90,7 +90,7 @@ This repository contains 3 scrapers to collect movie info, show time schedules, 
 
 Due to the complexity of the mentioned website, each scraper was built using a different scraping framework. You may find the explanations in the Approach section.   
 
-<strong>The scrapers had successfully collected data of 104,000 shows and 425 movies since October 2021.</strong>
+<strong>The scrapers had successfully collected data of 156,956 shows and 520 movies since October 2021.</strong>
 
 A SQLite database was set up to store the collected data, it can be found here: `data/hkmovies-db`. Alternatively, follow the  
 
@@ -102,7 +102,7 @@ A SQLite database was set up to store the collected data, it can be found here: 
 
 ## 📚  Data Collected
 
-Data collected from over 100,000 shows and 425 movies are stored in a SQLite database `data/hk-movies.db`.
+Data collected from over 156,956 shows and 520 movies are stored in a SQLite database `data/hk-movies.db`.
 
 ![data-collected__1](screenshots/data-collected__1.jpg)
 
