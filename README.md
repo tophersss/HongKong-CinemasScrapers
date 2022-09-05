@@ -196,6 +196,7 @@ This section provides detailed explanations on how each scraper collected data f
 
 ### <u>Scraper 1: hkmovies-spider</u>
 <details>
+<summary>Details</summary>
 As the starting point of the whole scraping process, this scraper was used to collect details of the movies that are or will be showing in cinemas, including:
 
 * **hkmovie6_code**: a unique 36-characters string that constitutes the url address to a "Movie Profile" screen
@@ -247,6 +248,7 @@ to start this scraper.
 
 ### <u>Scraper 2: ShowtimeScraper</u>
 <details>
+<summary>Details</summary>
 After the showing movies are identified, the next step is to find the showtimes.
 
 Imho, this part proved to be the most challenging as none of the conventional/popular scraping frameworks worked.
@@ -293,6 +295,7 @@ to start this scraper.
 
 ### <u>Scraper 3: SeatplanScraper</u>
 <details>
+<summary>Details</summary>
 
 Once the `showtime code` were loaded to the database, the final step was to loop through the seatplan urls to acquire:
 * seatplan diagram
