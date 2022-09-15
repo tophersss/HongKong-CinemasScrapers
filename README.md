@@ -123,7 +123,7 @@ Sample:
 
 Each record in `SalesHistory` represents each seat taken in a movie show.
 
-[SQLiteStudio] (https://sqlitestudio.pl/) was used to manage and query the database.
+[SQLiteStudio](https://sqlitestudio.pl/) was used to manage and query the database.
 
 </details>
 
